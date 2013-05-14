@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/TestCLR/TestCLR
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/TestCLR/TestCLR/stdafx.h
+END
+TestCLR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/TestCLR/TestCLR/TestCLR.cpp
+END
+TestCLR.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/TestCLR/TestCLR/TestCLR.vcproj
+END
+app.rc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/TestCLR/TestCLR/app.rc
+END
+app.ico
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/TestCLR/TestCLR/app.ico
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/TestCLR/TestCLR/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/TestCLR/TestCLR/ReadMe.txt
+END
+AssemblyInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/TestCLR/TestCLR/AssemblyInfo.cpp
+END
+TestCLR.vcproj.yll-PC.yll.user
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/TestCLR/TestCLR/TestCLR.vcproj.yll-PC.yll.user
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/TestCLR/TestCLR/resource.h
+END

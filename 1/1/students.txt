@@ -1,0 +1,12 @@
+Boy Smith;007654323 1 2 2 50.5 50.5
+Gary Kocsi;007654327 2 2 2 30.5 35.5
+Man Tai Chan;007654328 2 1 2 89.5 65.5
+Xing Li Yang;007654329 2 0 2 89.5 75.5
+Yuko Kanada;007654331 2 2 2 89.5 85.5
+Tommy Sawyer;007654341 2 2 0 89.5 45.5
+Angelina G. Utterbeck;007654421 2 2 2 89.5 78.5
+Ron Viega;007655321 1 2 2 89.5 95.5
+Fernando Botero;007664321 0 0 0 100.0 100.0
+Dhanesh Bindal;007754321 2 2 2 65.5 65.5
+Alexandra Cutting;008654321 2 2 2 21.5 37.5
+Tony Nixon;009654322 0 1 2 89.5 99.5

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/Test/Test
+END
+Test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/Test/Test/Test.vcproj
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/Test/Test/main.cpp
+END
+Test.vcproj.yll-PC.yll.user
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/Test/Test/Test.vcproj.yll-PC.yll.user
+END

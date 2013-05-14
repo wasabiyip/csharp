@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/Test/Test/Debug
+END
+Test.exe.embed.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/Test/Test/Debug/Test.exe.embed.manifest
+END
+vc90.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/Test/Test/Debug/vc90.pdb
+END
+Test.exe.embed.manifest.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Test/Test/Debug/Test.exe.embed.manifest.res
+END
+mt.dep
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/Test/Test/Debug/mt.dep
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/Test/Test/Debug/BuildLog.htm
+END
+Test.exe.intermediate.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/Test/Test/Debug/Test.exe.intermediate.manifest
+END
+main.obj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/Test/Test/Debug/main.obj
+END
+vc90.idb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/Test/Test/Debug/vc90.idb
+END

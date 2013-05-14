@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/TestCLR/Debug
+END
+TestCLR.exe
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/TestCLR/Debug/TestCLR.exe
+END
+TestCLR.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/TestCLR/Debug/TestCLR.pdb
+END
+TestCLR.ilk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/TestCLR/Debug/TestCLR.ilk
+END
